@@ -550,7 +550,7 @@
     border-radius: 10px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 11px;
-    font-weight: 900;
+    font-weight: 700;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -560,11 +560,13 @@
 }
 
 .mssg_block_2_as>div:hover{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: #00649b;
     color: white;
 }
 
 .mssg_block_2_2>div:hover{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: #00649b;
     color: white;
 }
